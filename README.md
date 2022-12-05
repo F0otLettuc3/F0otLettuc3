@@ -1,13 +1,13 @@
-### Hi I'm Bharath a tryhard programmer
+## Hi I'm Bharath a tryhard programmer
 
-#### Contact me!
+### Contact me!
 * https://twitter.com/F00tLettuc3
 * https://www.instagram.com/footlettuc3/
 
-#### Some Achievements 
+### Some Achievements 
   
-     **Vex Robotics**
-  - VRC 2020-2021 Change Up LRT Worlds
-  - VRC 2022-2023 Spin Up Singvex Skills Challenge 2nd place
+   Vex Robotics
+  > - VRC 2020-2021 Change Up LRT Worlds Division Champion
+  > - VRC 2022-2023 Spin Up Singvex Skills Challenge 2nd place
 
 
