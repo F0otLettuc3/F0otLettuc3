@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi I'm Bharath a tryhard programmer
 
-<!--
-**F0otLettuc3/F0otLettuc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Contact me!
+* https://twitter.com/F00tLettuc3
+* https://www.instagram.com/footlettuc3/
 
-Here are some ideas to get you started:
+#### Some Achievements 
+  
+     **Vex Robotics**
+  - VRC 2020-2021 Change Up LRT Worlds
+  - VRC 2022-2023 Spin Up Singvex Skills Challenge 2nd place
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
