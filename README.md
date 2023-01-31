@@ -4,6 +4,8 @@
 * https://twitter.com/F00tLettuc3
 * https://www.instagram.com/footlettuc3/
 
+--- 
+
 ### Some Achievements 
   
    Vex Robotics
@@ -12,6 +14,10 @@
 
    CTF Details
   > - CTFTime Team https://ctftime.org/team/213096
+
+ 
+ ###  What I'm working on right now
+ > - App to trace network packets to track malicious data
   
   
 ---
