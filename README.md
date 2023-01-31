@@ -1,4 +1,4 @@
-## Hi I'm Bharath a tryhard programmer
+## Hi I'm Bharath
 
 ### Contact me!
 * https://twitter.com/F00tLettuc3
